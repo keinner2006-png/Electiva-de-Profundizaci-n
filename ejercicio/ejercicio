@@ -1,0 +1,3 @@
+edad = input("cuantos años tienes? ")
+dias = int(edad) * 365 # <- conversion
+print("cuanto e vivido " + str(dias) + " dias");
